@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mad_hdridevelopers">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo3"
+        android:label="iTourSL"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MADHDRIDevelopers">
+        <activity
+            android:name=".BudgetCal"
+            android:exported="true" />
+        <activity android:name=".PlanTour" />
+        <activity android:name=".ShopView" />
+        <activity android:name=".HotelView" />
+        <activity android:name=".RestaurantView" />
+        <activity
+            android:name=".InsertImages"
+            android:exported="true" />
+        <activity
+            android:name=".UserProfile"
+            android:exported="true" />
+        <activity
+            android:name=".CityOverview"
+            android:exported="true" />
+        <activity
+            android:name=".CurrentLocation"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAqn9jT-HFV228VDIYdERnc5WTo8JQuQuQ" />
+
+        <activity
+            android:name=".WeatherScreen2"
+            android:exported="true" />
+        <activity
+            android:name=".WeatherScreen1"
+            android:exported="true" />
+        <activity
+            android:name=".Photos"
+            android:exported="true" />
+        <activity
+            android:name=".Weather"
+            android:exported="true" />
+        <activity
+            android:name=".Home"
+            android:exported="true" />
+        <activity
+            android:name=".RestaurantRegistration"
+            android:exported="true" />
+        <activity
+            android:name=".HotelRegistration"
+            android:exported="true" />
+        <activity
+            android:name=".ShopRegistration"
+            android:exported="true" />
+        <activity android:name=".TransportProviderReg" />
+        <activity android:name=".TransportView" />
+        <activity android:name=".UserRegistration" />
+        <activity android:name=".BusinessRegistration" />
+        <activity android:name=".LoginPage" />
+        <activity android:name=".SignupOption" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

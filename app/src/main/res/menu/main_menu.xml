@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:icon="@drawable/ic_home"/>
+        <item
+            android:id="@+id/nav_cal"
+            android:title="@string/cal"
+            android:icon="@drawable/ic_baseline_calculate_24"/>
+        <item
+            android:id="@+id/nav_trans"
+            android:title="@string/Travel"
+            android:icon="@drawable/ic_baseline_directions_car_24"/>
+
+    </group>
+
+
+    <item
+
+        android:title="profile">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/nav_user"
+                    android:title="@string/your_profile"
+                    android:icon="@drawable/ic_baseline_account_circle_24"/>
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:title="@string/logout"
+                    android:icon="@drawable/ic_logout"/>
+            </group>
+        </menu>
+
+    </item>
+
+
+</menu>

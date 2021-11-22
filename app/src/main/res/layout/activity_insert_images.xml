@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#BFD5B5"
+    tools:context=".InsertImages">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/plantoolbar"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/apple_green100"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:navigationIcon="@drawable/ic_baseline_menu_24"
+        tools:ignore="MissingConstraints" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="385dp"
+        android:layout_height="634dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/plantoolbar"
+        app:srcCompat="@drawable/white3" />
+
+    <TextView
+        android:id="@+id/iu_txt1"
+        android:layout_width="187dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginTop="40dp"
+        android:text="@string/iu_txt1"
+        android:textColor="#070707"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/plantoolbar" />
+
+    <TextView
+        android:id="@+id/iu_txt2"
+        android:layout_width="187dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="50dp"
+        android:text="@string/iu_txt2"
+        android:textColor="#070707"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/iu_text001" />
+
+    <TextView
+        android:id="@+id/iu_txt3"
+        android:layout_width="187dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="44dp"
+        android:text="@string/iu_txt3"
+        android:textColor="#070707"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.186"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout3" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="254dp"
+        android:layout_height="181dp"
+        android:layout_marginTop="12dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/iu_txt1">
+
+        <ImageButton
+            android:id="@+id/iu_imagebtn"
+            android:layout_width="248dp"
+            android:layout_height="173dp"
+            tools:srcCompat="@tools:sample/backgrounds/scenic" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/iu_text002"
+        android:layout_width="295dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="@string/iu_text002"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/iu_txt2" />
+
+    <EditText
+        android:id="@+id/iu_text001"
+        android:layout_width="292dp"
+        android:layout_height="47dp"
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="@string/location"
+        android:inputType="textPersonName"
+        android:textSize="24sp"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/iu_txt3" />
+
+    <Button
+        android:id="@+id/iu_button"
+        android:layout_width="212dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/iu_button"
+        app:backgroundTint="#61B303"
+        app:layout_constraintEnd_toEndOf="@+id/imageView5"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="@+id/imageView5"
+        app:layout_constraintTop_toBottomOf="@+id/iu_text002" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/home1.xml" value="0.2203125" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_budget_cal.xml" value="0.18888888888888888" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_budget_cal1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_business_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_current_location.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_home.xml" value="0.2" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_hotel_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_insert_images.xml" value="0.25" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_login_page.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_photos.xml" value="0.25" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_plan_tour.xml" value="0.2" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_restaurant_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_shop_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_transport_provider_reg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_user_profile.xml" value="0.25" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_user_registration.xml" value="0.22" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_weather.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_weather_screen1.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_weather_screen2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/design_raw.xml" value="0.1552511415525114" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_map.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/header.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/menu/main_menu.xml" value="0.1" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/CNN COMPUTERS/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/budget_accomodation.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/budget_default.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/budget_food.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/budget_other.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/budget_transport.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/budget_vehicle.xml" value="0.10833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/buget_add.xml" value="0.2203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_budget_cal.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_budget_cal1.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_business_registration.xml" value="0.17980072463768115" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_home.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_hotel_registration.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_ishma.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_login_page.xml" value="0.16" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_main.xml" value="0.15353260869565216" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_restaurant_registration.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_shop_registration.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_signup_option.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_transport_provider_reg.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_user_registration.xml" value="0.18795289855072464" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/budget_input_layout.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/budget_output_layout.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/budgetcal_update.xml" value="0.25" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_hotel_descfragment.xml" value="0.16983695652173914" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_hotel_recfragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_restdescfragment.xml" value="0.1" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_restrecfragment.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_shopdescfragment.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/fragment_shoprecfragment.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/hotel_item.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/restaurant_item.xml" value="0.1272644927536232" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/shop_item.xml" value="0.17391304347826086" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/drawable/weather1.xml" value="0.1" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_budget_cal1.xml" value="0.11367753623188406" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_business_registration.xml" value="0.1" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_home.xml" value="0.11367753623188406" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_hotel_registration.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_photos.xml" value="0.11367753623188406" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_restaurant_registration.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_shop_registration.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_transport_provider_reg.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_weather.xml" value="0.11367753623188406" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_weather_screen1.xml" value="0.12001811594202899" />
+        <entry key="..\:/Users/DINITHI/AndroidStudioProjects/MAD-HDRI-developers/app/src/main/res/layout/activity_weather_screen2.xml" value="0.12001811594202899" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

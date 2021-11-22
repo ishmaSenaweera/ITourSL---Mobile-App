@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "275228424321",
+    "firebase_url": "https://itoursl-default-rtdb.firebaseio.com",
+    "project_id": "itoursl",
+    "storage_bucket": "itoursl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275228424321:android:9c1251da5db5a926343580",
+        "android_client_info": {
+          "package_name": "com.example.mad_hdridevelopers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275228424321-cjuqn6lhaagifje9fbafk2nvohde5ltp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi8kh6C0VXxnlw2TYf94MTwagVHd8h0zA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275228424321-cjuqn6lhaagifje9fbafk2nvohde5ltp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,228 @@
+<resources>
+
+    //for navigation
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="app_name">MAD-HDRI Developers</string>
+    <string name="topic001">iTourSL</string>
+    <string name="title001">iTourSL</string>
+    <string name="title002">Travel planner in Sri Lanka</string>
+    <string name="tiltle003">Best guidance to plan your itinerary and explore amazing destinations in Sri Lanka.</string>
+    <string name="wbtn1">Login</string>
+    <string name="wbtn2">sign up</string>
+    <string name="logo1">logo</string>
+    <string name="welcome1">ambuluwawa</string>
+    <string name="wel2back1">background</string>
+    <string name="wel2text1">Create your new</string>
+    <string name="wel2btn1">user account</string>
+    <string name="wel2btn2">business account</string>
+    <string name="wel2text2">You can use this app as a user or business owner</string>
+    <string name="wel2text3">iTourSL</string>
+    <string name="wel2back4">white</string>
+    <string name="welimage2">white image</string>
+    <string name="logedit1">Enter email or username</string>
+    <string name="logedit2">Enter password</string>
+    <string name="logtext1">Log In</string>
+    <string name="shoptext">Shop Registration</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shopownerreg">Shop</string>
+    <string name="transportproviderreg">Transport</string>
+    <string name="restownerreg">Restaurant</string>
+    <string name="hotelowner">Hotel</string>
+    <string name="backreg">background</string>
+    <string name="contreg">container</string>
+    <string name="registertext">Register</string>
+
+    <string name="transportReg">transport layout</string>
+    <string name="registerimage">register image</string>
+    <string name="registername">Name</string>
+    <string name="transregdesc">Description</string>
+    <string name="transregaddress">Address</string>
+    <string name="transregno">Contact Number</string>
+    <string name="transregloaction">Location</string>
+    <string name="transregurl">Page URL(Optional)</string>
+    <string name="transregchoose">Upload references</string>
+    <string name="choosedimage">Choosed image</string>
+    <string name="transregusername">Email</string>
+    <string name="choose">Choose an image</string>
+    <string name="transregpassword">Password</string>
+    <string name="transregcreate">Create Account</string>
+    <string name="userImageBtn">upload profile picture</string>
+    <string name="userNameView">Name</string>
+    <string name="userDescription001">Description</string>
+    <string name="userEmail001">Email</string>
+    <string name="UserEdit2">Description</string>
+    <string name="userPwd001">Enter Your Password</string>
+    <string name="userPwd002">Re-enter your password</string>
+    <string name="userEdit4">Password</string>
+    <string name="userbtn002">create account</string>
+
+    <string name="calTextName">Budget Cal</string>
+    <string name="expenseBtn">Expense</string>
+    <string name="incomeBtn">Incomes</string>
+    <string name="statBtn">Stats</string>
+    <string name="lastrecBtn">Last Record</string>
+
+    <string name="hotelRegTV1">Register Your Hotel</string>
+    <string name="hotelNameTV">Name</string>
+    <string name="hotelDescTV">Description</string>
+    <string name="hotelAddressTV">Address</string>
+    <string name="hotelContactTV">Contact Number</string>
+    <string name="hotelLocationTV">Location</string>
+    <string name="hotelUrlTV">Page URL(Optional)</string>
+    <string name="hotelRefTV">Upload references</string>
+    <string name="hotelImgChooseBtn">Choose an image</string>
+    <string name="hotelUserNameTV">Username</string>
+    <string name="hotelPasswordTV">Password</string>
+    <string name="hotelCreateBtn">Create Account</string>
+    <string name="hotelImage">hotelImage</string>
+    <string name="hotelEmailTV">Email</string>
+
+    <string name="restRegTV1">Register Your Restaurant</string>
+    <string name="restNameTV">Name</string>
+    <string name="restDescTV">Description</string>
+    <string name="restAddressTV">Address</string>
+    <string name="restContactTV">Contact Number</string>
+    <string name="restLocationTV">Location</string>
+    <string name="restUrlTV">Page URL(Optional)</string>
+    <string name="restImage">restImage</string>
+    <string name="restImgChooseBtn">Choose an Image</string>
+    <string name="restUserNameTV">Username</string>
+    <string name="restPasswordTV">Password</string>
+    <string name="restCreateBtn">Create Account</string>
+    <string name="restEmailTV">Email</string>
+
+    <string name="shoptextview">Register Your Shop</string>
+    <string name="shopname_et">Name</string>
+    <string name="shopdesc_et">Description</string>
+    <string name="shopaddress_et">Address</string>
+    <string name="shopno_et">Contact Number</string>
+    <string name="shoploc_et">Location</string>
+    <string name="shopurl_et">Page URL (Optional)</string>
+    <string name="shop_image">Shop Profile Image</string>
+    <string name="shopimage_choosebtn">Choose an Image</string>
+    <string name="shopue_et">Shop Email</string>
+    <string name="shoppwd_et">Password</string>
+    <string name="shop_createbtn">Create Account</string>
+
+    <string name="weatherlayout">Weather layout</string>
+    <string name="weatherbg">Weatherbg</string>
+    <string name="weatherfind">WeatherFind</string>
+    <string name="weatherLlayout">Weatherlayout</string>
+    <string name="weathertxt1">0*C</string>
+    <string name="weathertxt2">-------</string>
+    <string name="weathertxt3">Loading....</string>
+    <string name="weathertxt4">Search for Location</string>
+    <string name="weathertxt5">Weather Forecast</string>
+    <string name="weathertxt6">Enter City Name</string>
+    <string name="weatherimg">back</string>
+    <string name="weatherimgicons">weather icons</string>
+    <string name="home">Home</string>
+    <string name="cal">Budget Cal</string>
+    <string name="Travel">Travel Planner</string>
+    <string name="your_profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="itoursl">iTourSL</string>
+    <string name="home_hotels">hotels</string>
+    <string name="home_rest">restaurants</string>
+    <string name="home_vehicle">vehicles</string>
+    <string name="home_shops">shops</string>
+    <string name="home_map">map</string>
+
+    <string name="rimage">recyclerimage</string>
+    <string name="proname">provider name</string>
+    <string name="prodesc">provider description</string>
+    <string name="proadd">provider address</string>
+    <string name="prolocation">provider location</string>
+    <string name="procontact">provider contact</string>
+    <string name="proemail">provider email</string>
+    <string name="proabout">About</string>
+    <string name="user_name">Sanjula Perera</string>
+    <string name="user_desc">"crickter* Traveller* "</string>
+    <string name="user_btn1">Edit profile</string>
+    <string name="user_btn2">upload photos</string>
+    <string name="iu_txt1">select image</string>
+    <string name="iu_txt2">Description</string>
+    <string name="iu_txt3">Location</string>
+    <string name="location">location</string>
+    <string name="iu_text002">description</string>
+    <string name="iu_button">upload photo</string>
+
+    <string name="shopr_image">"shop recycler image "</string>
+    <string name="shopr_name">Shop Name</string>
+    <string name="shopr_desc">Shop Description</string>
+    <string name="shopr_loc">Shop Location</string>
+    <string name="shopr_no">Contact no</string>
+    <string name="shopnameholder">Shop Name</string>
+    <string name="shopaddressholder">Shop Address</string>
+    <string name="Shopemailholder">Shop email</string>
+    <string name="shopcontactholder">Shop description</string>
+    <string name="shoplocationholder">Shop location</string>
+    <string name="aboutshop">About</string>
+    <string name="shopdescholder">Description of Shop and the Product</string>
+    <string name="shopemailholder">Shop email</string>
+
+    <string name="addtaskplan">Add a new plan task</string>
+    <string name="pl_task">Task</string>
+    <string name="pl_desc">Description</string>
+    <string name="pl_time">Time</string>
+    <string name="et_plantask">Enter your task</string>
+    <string name="et_plandesc">Enter your description</string>
+    <string name="et_plantime">Enter time duration</string>
+    <string name="planbtn_cancel">Cancel</string>
+    <string name="planbtn_save">Save</string>
+
+
+    <string name="kandy">Kandy</string>
+    <string name="neardest">Near by destinations</string>
+    <string name="cdesc">Kandy is home to sacred landmarks,landscaped gardens and cultural museums.</string>
+    <string name="temprelic">Temple of tooth relic</string>
+    <string name="kview">Kandy view point</string>
+
+    <string name="hotelnameholder">Hotel Name Holder</string>
+    <string name="hoteladdressholder">Hotel Address Holder</string>
+    <string name="hotelemailholder">Hotel Email Holder</string>
+    <string name="hotelcontactholder">Hotel ContactNo Holder</string>
+    <string name="hotellocationholder">Hotel Location Holder</string>
+    <string name="hotelurlholder">Hotel URL Holder</string>
+    <string name="hotelabout">About,</string>
+    <string name="hoteldescholder">Hotel Description Holder</string>
+
+    <string name="restname">Rest Name Holder</string>
+    <string name="restaurantaddress">Rest Address Holder</string>
+    <string name="restaurantemail">Rest Email Holder</string>
+    <string name="restaurantcontact">Rest ContactNo Holder</string>
+    <string name="restaurantlocation">Rest Location Holder</string>
+    <string name="restaurantabout">About,</string>
+    <string name="restaurantdesc">Rest Description Holder</string>
+    <string name="hotelrecyimage1">Rest Image</string>
+    <string name="hotelrecyname">Rest Name</string>
+    <string name="hotelrecydesc">Rest Desc</string>
+    <string name="hotelrecylocation">Rest Location</string>
+    <string name="hotelrecycontactno">Rest ContactNo</string>
+    <string name="pretask_tv">Task</string>
+    <string name="predesc_tv">Description</string>
+    <string name="pretime_tv">Time</string>
+    <string name="pluptask_et">Enter Your Task</string>
+    <string name="plupdesc_et">Enter Description</string>
+    <string name="pluptime_et">Enter Time Duration</string>
+    <string name="plndelete_btn">DELETE</string>
+    <string name="plnupdate_btn">UPDATE</string>
+    <string name="pluptask_tv">Task</string>
+    <string name="plupdesc_tv">Description</string>
+    <string name="pluptime_tv">Time</string>
+
+    <string-array name="items">
+        <item> Select Item </item>
+        <item> Food and Beverages </item>
+        <item> Transportation </item>
+        <item> Vehicle </item>
+        <item> Accomodation </item>
+        <item> Others </item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="6dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true">
+    
+    <RelativeLayout
+        android:layout_height="wrap_content" 
+        android:layout_width="match_parent"
+        android:padding="15dp">
+
+        <ImageView
+            android:id="@+id/recycleimage1"
+            android:layout_width="88dp"
+            android:layout_height="71dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="26dp"
+            android:layout_marginTop="8dp"
+            android:contentDescription="@string/rimage"
+
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <TextView
+            android:id="@+id/rname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/recycleimage1"
+            android:text="@string/proname"
+            android:textColor="@color/black"
+            android:textSize="25sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/rdesc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rname"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/recycleimage1"
+            android:text="@string/prodesc"
+            android:textColor="@color/black"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/rlocation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rdesc"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/recycleimage1"
+            android:text="@string/prolocation"
+            android:textColor="@color/black"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/rcontactno"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/rlocation"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/recycleimage1"
+            android:text="@string/procontact"
+            android:textColor="@color/black"
+            android:textSize="25sp" />
+
+
+
+
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
